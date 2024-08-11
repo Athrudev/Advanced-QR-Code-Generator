@@ -15,7 +15,7 @@ This Advanced QR Code Generator is a Python-based tool that allows users to crea
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/advanced-qr-code-generator.git
+   git clone https://github.com/Athrudev/Advanced-QR-Code-Generator.git
    ```
 
 2. Navigate to the project directory:
