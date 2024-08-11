@@ -49,8 +49,6 @@ For a live preview of this project, you can use Google Colab. Click on the link 
 
 
 
-Note: Replace "your-notebook-link-here" with the actual Google Colab notebook link for this project.
-
 ## Dependencies
 - segno
 - pyzbar
