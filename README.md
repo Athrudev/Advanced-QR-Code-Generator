@@ -65,7 +65,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 - Thanks to the creators of segno, pyzbar, Pillow, and cryptography libraries.
-- Animated QR code feature inspired by [mention any inspirations if applicable]
 
 ## Contact
 For any queries or suggestions, please open an issue in this repository.
